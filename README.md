@@ -1,4 +1,49 @@
-# VIKAL SINGH'S Dotfiles
+<p align="center">
+  <b>🔥VIKAL SINGH'S Linux Dotfiles 🔥</b>
+</p> 
+
+<h1>
+  <a href="#--------">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</h1>
+
+<p align="center"> 
+<img src="https://img.shields.io/github/stars/singh-vikal/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/singh-vikal/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/singh-vikal/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
+</p> 
+
+</br>
+
+
+<div align="center">
+ 
+
+
+
+Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on the Internet. You'll find my shitty/beautiful/cool configurations here :D. This is my personal configuration of BSPWM Window Manager.
+
+
+
+| Type                | Choice         |
+| ------------------- | -------------- |
+| Shell               | ZSH           |
+| Color scheme        | Everblush |
+| Distribution        | All GNU/Linux    |
+| Windows Manager    |  DWM/BSPWM/I3    |
+| IDE                 | Neovim, VSCode |
+| Web Browser         | Chrome   & Brave     |
+| Terminal            | Alacritty  & st   |
+
+
+
+
+</br>
+</br>
+
+</div>
+
 
 #### [BSPWM](https://github.com/singh-vikal/DOTS/tree/main/bspwm-polybar-config-main/bspwm-polybar-config-main)
 <img title="Rice" src="images/IMG_20230703_112104_199.jpg" alt="">
@@ -20,19 +65,6 @@
 
 
 
-| Type                | Choice         |
-| ------------------- | -------------- |
-| Shell               | ZSH           |
-| Color scheme        | Everblush |
-| Distribution        | All GNU/Linux    |
-| Windows Manager    |  DWM/BSPWM/I3    |
-| IDE                 | Neovim, VSCode |
-| Web Browser         | Chrome   & Brave     |
-| Terminal            | Alacritty  & st   |
-<div align="center">
- 
-#### Dotfiles
-</div>
  
  
  <h4> To be Noted </h4>
@@ -76,7 +108,14 @@ $ cd DOTS
 
 
 #### Links
- - [Bspwm](https://wiki.archlinux.org/title/bspwm#:~:text=bspwm%20is%20a%20tiling%20window,EWMH%20is%20partially%20supported)
+ - Window Manager: [BSPWM](https://github.com/baskerville/bspwm)
+ - Text Editor: [Neovim](https://github.com/neovim)
+ - Music Player: Mpv or Ncmpcpp
+ - Bar:  [Tint2](https://gitlab.com/o9000/tint2) & [Polybar](https://github.com/polybar/polybar)
+ - Shell: [Mksh](https://github.com/MirBSD/mksh)
+ - Compositor: [Picom](https://github.com/yshui/picom)
+ - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
+ - GUI Editor: [Vscode](https://github.com/microsoft/vscode)
  - [Polybar](https://github.com/polybar/polybar)
  - [Simple Terminal](https://st.suckless.org/)
  - [DMenu](https://tools.suckless.org/dmenu/)
