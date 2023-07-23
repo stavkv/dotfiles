@@ -82,44 +82,49 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 - Picom is default one  
 
 
-#### Installation </h3>
+#### Installation 
 
 
  - Install the following packages 
   
   ```bspwm sxhkd tint2 polybar alacritty nitrogen maim imagemagick.``` 
   
-   
+
+  - Clone this repository to your $HOME dir.
+    ```yaml
+    # clone the dotfiles repo
+    $ git clone https://github.com/singh-vikal/dotfiles
+    # cd in dotfiles
+    $ cd dotfiles/
+    ```
+
+
+
+  > After you're done with cloning the repository. Install the following packages 
+  
+  
+  > For compository I use picom. You need to build it from the official repository. 
+  
+  > After you're done with all this, copy the configuration files from cloned directory to particular path. 
   
  
 <br>
 
-- 👀these the config files for my desktop
-- 😊set the wallpaper u like
-- 😄thank you....:)
-
-```yaml
-# clone the xfce-config repo
-$ git clone https://github.com/singh-vikal/DOTS
-# cd in dotfiles
-$ cd DOTS
-#just copy files to ur .config folder inside Home directory 
-```
 
 
 #### Links
- - Window Manager: [BSPWM](https://github.com/baskerville/bspwm)
+ - Window Manager:
+          [BSPWM](https://github.com/baskerville/bspwm) 
+          [DWM](https://dwm.suckless.org/) 
+          [i3](https://i3wm.org/)
+ - [Suckless](https://suckless.org/) 
  - Text Editor: [Neovim](https://github.com/neovim)
+ - Terminal :   [Simple Terminal](https://st.suckless.org/)
  - Music Player: Mpv or Ncmpcpp
  - Bar:  [Tint2](https://gitlab.com/o9000/tint2) & [Polybar](https://github.com/polybar/polybar)
- - Shell: [Mksh](https://github.com/MirBSD/mksh)
  - Compositor: [Picom](https://github.com/yshui/picom)
  - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
  - GUI Editor: [Vscode](https://github.com/microsoft/vscode)
- - [Polybar](https://github.com/polybar/polybar)
- - [Simple Terminal](https://st.suckless.org/)
- - [DMenu](https://tools.suckless.org/dmenu/)
- - [Dynamic Window Manager (DWM)](https://dwm.suckless.org/)
- - [Suckless](https://suckless.org/)
- - [i3](https://i3wm.org/)
- - [tint2](https://wiki.archlinux.org/title/tint2#:~:text=tint2%20is%20a%20simple%2C%20unobtrusive,not%20come%20with%20a%20panel.) 
+ - App Launcher : [DMenu](https://tools.suckless.org/dmenu/)
+
+
