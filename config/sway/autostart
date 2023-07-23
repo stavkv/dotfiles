@@ -1,0 +1,4 @@
+polybar &
+picom --experimental-backend &
+nitrogen --restore & 
+/usr/bin/emacs --daemon &

@@ -1,0 +1,9 @@
+XF86MonBrightnessUp
+	brillo -q -A 5 
+XF86MonBrightnessDown
+	brillo -q -U 5
+super + shift + b
+	xdotool type $(grep -v '^#' ~/.local/share/mylist/bookmark | dmenu -i -l 50  | cut -d' ' -f1)
+super + Print
+	maim | tee ~/pix/ss/$(date +%s).png | xclip -selection clipboard -t image/png
+			

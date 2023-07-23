@@ -1,0 +1,12 @@
+#!/bin/bash
+
+alias \
+	l="ls -al" \
+	ls="ls --color" \
+	v="nvim" \
+	wget="wget --hsts-file="$XDG_DATA_HOME/wget-hsts"" \
+	wm="cd $HOME/.config/suckless/dwm" \
+	tr="cd $HOME/.config/suckless/st" \
+	suc="cd $HOME/.config/suckless" \
+	mk="sudo cp config.def.h config.h && sudo make install" \
+	sc="cd $HOME/.local/bin"

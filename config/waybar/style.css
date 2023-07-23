@@ -1,0 +1,175 @@
+/*
+*
+* Base16 Dracula
+* Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+*
+*/
+
+@define-color base00 #282936;
+@define-color base01 #3a3c4e;
+@define-color base02 #4d4f68;
+@define-color base03 #626483;
+@define-color base04 #62d6e8;
+@define-color base05 #e9e9f4;
+@define-color base06 #f1f2f8;
+@define-color base07 #f7f7fb;
+@define-color base08 #ea51b2;
+@define-color base09 #b45bcf;
+@define-color base0A #00f769;
+@define-color base0B #ebff87;
+@define-color base0C #a1efe4;
+@define-color base0D #62d6e8;
+@define-color base0E #b45bcf;
+@define-color base0F #00f769;
+
+* {
+  color: @base05;
+  border: none;
+  border-radius: 0;
+  font-family: "fira code";
+  font-size: 14px;
+  min-height: 0;
+}
+
+window#waybar {
+  background: @base00;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+
+window#waybar.hidden {
+  opacity: 0.2;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
+}
+
+.modules-left {
+  margin-left: 10px;
+}
+
+.modules-right {
+  margin-right: 10px;
+}
+
+.modules-right * {
+  padding: 0 5px;
+  margin: 0 2.5px;
+}
+
+#workspaces {
+  margin: 5px;
+  margin-left: 10px;
+}
+
+#workspaces button {
+  padding: 0 10px;
+}
+
+#workspaces button.focused {
+  border-bottom: 2px solid @base0D;
+}
+
+#workspaces button.urgent {
+  background-color: @base08;
+}
+
+#mode {
+  background-color: @base08;
+  border-radius: 5px;
+  padding: 0 10px;
+}
+
+#window,
+#workspaces {
+  margin: 0 5px;
+}
+
+#window {
+  font-weight: normal;
+}
+
+/* If workspaces is the leftmost module, omit left margin */
+.modules-left > widget:first-child > #workspaces {
+  margin-left: 0;
+}
+
+/* If workspaces is the rightmost module, omit right margin */
+.modules-right > widget:last-child > #workspaces {
+  margin-right: 0;
+}
+
+#clock {
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#battery {
+  color: #2ecc71;
+}
+
+#battery.charging,
+#battery.plugged {
+  color: #26a65b;
+}
+
+@keyframes blink {
+  to {
+    color: #ffffff;
+  }
+}
+
+#battery.critical:not(.charging) {
+  color: #f53c3c;
+  animation-name: blink;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#memory {
+  color: #9b59b6;
+}
+
+#network {
+  color: #2980b9;
+}
+
+#network.disconnected {
+  color: #f53c3c;
+}
+
+#pulseaudio {
+  color: #f1c40f;
+}
+
+#pulseaudio.muted {
+  color: #90b1b1;
+}
+
+#temperature {
+  color: #f0932b;
+}
+
+#temperature.critical {
+  color: #eb4d4b;
+}
+
+#tray {
+  color: #2980b9;
+}
+
+#tray > .passive {
+  -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+  -gtk-icon-effect: highlight;
+  color: #eb4d4b;
+}
