@@ -93,7 +93,7 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
   - Clone this repository to your $HOME dir.
     ```yaml
     # clone the dotfiles repo
-    $ git clone https://github.com/singh-vikal/dotfiles
+    $ git clone https://github.com/vikmenace/dotfiles
     # cd in dotfiles
     $ cd dotfiles/
     ```
