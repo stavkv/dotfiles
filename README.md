@@ -22,7 +22,7 @@
 
 
 
-Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on the Internet. You'll find my shitty/beautiful/cool configurations here :D. This is my personal configuration of BSPWM Window Manager.
+Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on the Internet. You'll find my shitty/beautiful/cool configurations here :D. This is my personal configuration of BSPWM/i3/Dwm Window Manager. But, now i personally use BSPWM.ALSO my Main OS is Debian Testing. But these configurations will work on all of the GNU/Linux Distributions.
 
 
 
@@ -48,7 +48,8 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 #### BSPWM
 <img title="Rice" src="images/IMG_20230703_112104_199.jpg" alt="">
 
-
+</br>
+</br>
 
 #### DWM
 <img title="Rice" src="images/IMG_20230705_080551_895.png" alt="">
@@ -56,7 +57,8 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 
 
 
-
+</br>
+</br>
 #### i3
 
 
@@ -65,9 +67,10 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 
 
 
+ </br>
+</br>
  
- 
- <h4> To be Noted </h4>
+ #### To be Noted 
  
 
   
