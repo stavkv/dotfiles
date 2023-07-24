@@ -29,11 +29,11 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 | Type                | Choice         |
 | ------------------- | -------------- |
 | Shell               | ZSH           |
-| Color scheme        | Everblush |
+| Color scheme        | Everblush or Materia|
 | Distribution        | All GNU/Linux    |
 | Windows Manager    |  DWM/BSPWM/I3    |
-| IDE                 | Neovim, VSCode |
-| Web Browser         | Chrome   & Brave     |
+| IDE                 | Neovim, VSCode, Emacs |
+| Web Browser         | Firefox  & Brave  |
 | Terminal            | Alacritty  & st   |
 
 
@@ -45,19 +45,19 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
 </div>
 
 
-#### [BSPWM](https://github.com/singh-vikal/DOTS/tree/main/bspwm-polybar-config-main/bspwm-polybar-config-main)
+#### BSPWM
 <img title="Rice" src="images/IMG_20230703_112104_199.jpg" alt="">
 
 
 
-#### [DWM](https://github.com/singh-vikal/DOTS/tree/main/suckless-config-main/suckless-config-main)
+#### DWM
 <img title="Rice" src="images/IMG_20230705_080551_895.png" alt="">
 
 
 
 
 
-#### [i3](https://github.com/singh-vikal/DOTS/tree/main/i3-dotfiles-main/i3-dotfiles-main)
+#### i3
 
 
 
