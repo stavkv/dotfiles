@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🔥VIKAL SINGH'S Linux Dotfiles 🔥</b>
+  <b>🔥VS Linux Dotfiles 🔥</b>
 </p> 
 
 <h1>
@@ -10,7 +10,7 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/github/stars/singh-vikal/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/singh-vikal/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=license&message=GPL3&color=8ccf7e&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/github/forks/singh-vikal/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p> 
 
