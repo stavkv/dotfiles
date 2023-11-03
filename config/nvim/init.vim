@@ -5,19 +5,25 @@ else
 
 endif
 
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
-"Move between buffers
-nnoremap <C-J> :bprev<CR>
-nnoremap <C-K> :bnext<CR>
+set background=dark
+set clipboard=unnamedplus
+set completeopt=noinsert,menuone,noselect
+set cursorline
+set hidden
+set inccommand=split
+set mouse=a
+set number
+set splitbelow splitright
+set title
+set ttimeoutlen=0
+set wildmenu
 
-inoremap jj <ESC>
-noremap <space>w :w<CR>
-noremap <space>q :q<CR>
+" Tabs size
 
-"Map Neovim yank's buffer to your clipboard buffer
+set t_Co=256
+set expandtab
+set shiftwidth=2
+set tabstop=2
 set clipboard+=unnamedplus
 
 
