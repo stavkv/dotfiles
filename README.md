@@ -4,14 +4,14 @@
 
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/heyvikki/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/vingh1/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
 
 <p align="center"> 
-<img src="https://img.shields.io/github/stars/heyvikki/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/heyvikki/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/vingh1/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/vingh1/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=GPL3&color=8ccf7e&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/heyvikki/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/vingh1/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p> 
 
 </br>
@@ -97,7 +97,7 @@ Heyyo, Thanks for dropping by....this is a place where I showcase my dotfiles on
   - Clone this repository to your $HOME dir.
     ```yaml
     # clone the dotfiles repo
-    $ git clone https://github.com/heyvikki/dotfiles
+    $ git clone https://github.com/vingh1/dotfiles
     # cd in dotfiles
     $ cd dotfiles/
     ```
